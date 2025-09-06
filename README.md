@@ -1,6 +1,6 @@
-# Repositório de Algoritmos de Machine Learning e Estatística
+# Repositório de Algoritmos de Machine Learning
 
-Bem-vindo a este repositório! O objetivo aqui é fornecer implementações claras e didáticas, em formato de Jupyter Notebooks, de diversos algoritmos e conceitos fundamentais de Machine Learning e estatística. Cada notebook é autônomo e focado em um único tópico, contendo tanto o código funcional quanto explicações teóricas.
+Bem-vindo a este repositório! O objetivo aqui é fornecer implementações claras , em formato de Jupyter Notebooks, de diversos algoritmos e conceitos fundamentais de Machine Learning. Cada notebook é autônomo e focado em um único tópico, contendo tanto o código funcional quanto explicações teóricas.
 
 ## Estrutura do Repositório
 
@@ -21,7 +21,7 @@ Cada conceito ou algoritmo listado abaixo possui seu próprio notebook (`.ipynb`
 
 ## Visão Geral e Comparação dos Algoritmos
 
-### Conceitos Estatísticos e de Informação
+### Conceito de Informação
 
 | Conceito | Descrição | Caso de Uso |
 | :--- | :--- | :--- |
